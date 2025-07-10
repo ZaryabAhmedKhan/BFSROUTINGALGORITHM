@@ -1,0 +1,32 @@
+# BFS Routing Simulator
+
+This project is a Java-based routing simulator that demonstrates the Breadth-First Search (BFS) algorithm. It allows users to create dynamic graphs, add nodes and edges, and visualize the shortest path between a selected source and destination.
+
+## Features
+- Interactive GUI using JavaFX
+- Add or remove nodes and edges
+- Simulate BFS to find the shortest path
+- Random graph generator
+- Visual path highlighting
+- Log panel for step-by-step tracing
+
+## Technologies Used
+- Java 17
+- JavaFX 17
+- IntelliJ IDEA or NetBeans
+
+## How to Run
+1. Ensure Java 17 and JavaFX are installed.
+2. Open the project in IntelliJ or NetBeans.
+3. Run the `BFSRouting.java` file.
+4. Use the GUI to build and simulate your graph.
+
+## Folder Structure
+- `BFSRouting.java` – Main GUI and controller
+- `Graph.java` – Graph logic and BFS implementation
+
+## Author
+Zaryab Khan
+
+## License
+This project is for educational purposes.
